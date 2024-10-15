@@ -16,7 +16,7 @@ Python Pandas, NumPy, Matplotlib, Seaborn, Plotly, sklearn, XGBoost
 Logistic Regression, Decision Tree, Random Forest, Multinomial Naive Bayes, XGBoost Classifier
 
 **Code:**  
-[GitHub - Automatic Ticket Classification](https://github.com/avinashb7/AutomaticTicketClassification/blob/main/Automatic_Ticket_Classification_Assignment.ipynb)
+[![.github/workflows/Code][GitHub - Automatic Ticket Classification](https://github.com/avinashb7/AutomaticTicketClassification/blob/main/Automatic_Ticket_Classification_Assignment.ipynb)
 
 ---
 
